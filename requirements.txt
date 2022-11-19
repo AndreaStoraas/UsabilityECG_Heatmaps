@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+opencv-python
+torch
+torchvision
+scikit-learn == 0.24.2
+jupyter
+wfdb
+ttach
